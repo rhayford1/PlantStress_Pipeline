@@ -2,10 +2,12 @@
 Plant Stress Gene and Annotation
 This repo holds the source code for the pipeline to retrieve plant stress genes and annotation from the scientific literature
 
-##Requirements
+Requirements
+
 Programming language – Python
 
-###Instructions
+Instructions
+
 1.	Install MongoDB
 
 2.	Create a virtual environment for the scripts 
